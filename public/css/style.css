@@ -1,0 +1,181 @@
+.card {
+  margin: 50px 0 0;
+}
+
+.form-control {
+  padding: .375rem 0;
+  border: none;
+}
+
+.preview img {
+  max-width: 100px;
+}
+
+.multi-preview img {
+  max-width: 100px;
+  padding: 5px;
+}
+
+.preview{
+  max-width: 100px;
+  padding: 5px;
+}
+
+/*
+banner-ac{
+  background-image: url(banner.png);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-top: 300px;
+  position: relative;
+}
+.banner-ac .change-cover-btn {
+  position: absolute;
+  top: 25px;
+  right: 40px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  box-sizing: border-box;
+  border-radius: 2px;
+  font-family: Poppins;
+  font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+}
+
+.banner-ac .change-cover-btn a {
+color: #FFFFFF;
+margin-left: 10px;
+}
+.banner-ac .change-cover-btn a:hover {
+text-decoration: none;
+}
+
+.position-wrapper{
+margin-top: 0px
+}
+
+.wrap-bg{
+background-color: #fff;
+}
+
+
+
+.btn-circle.btn-sm { 
+width: 30px; 
+height: 30px; 
+padding: 6px 0px; 
+border-radius: 15px; 
+font-size: 8px; 
+text-align: center; 
+} 
+.btn-circle.btn-md { 
+width: 50px;
+height: 50px;
+padding: 7px 10px;
+border-radius: 25px;
+font-size: 20px;
+text-align: center;
+border: 2px solid;
+} 
+
+.ButtonclsActive {
+background: #ffffff;
+color: #EE9821;
+border: 2px solid;
+padding: 9px 17px;
+}
+
+
+
+
+.linkedInBtnWidth{
+
+  width: 100%;
+}
+
+.banner-accountsetting{
+padding: 40px 50px 0px 50px;
+}
+
+.account-settingLayout{
+margin-top: -104px;
+}
+
+.account-settingLayout .btn-circle.btn-md {
+width: 25px;
+height: 25px;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+opacity: 0.9;
+padding: 2px 5px;
+}
+
+.account-settingLayout span.text2{
+padding-left: 20px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+}
+
+.account-settingLayout .Tab{
+padding-bottom: 30px;
+}
+
+
+.account-settingLayout .Tab:last-child{
+padding-bottom: 104px;
+}
+
+
+ .error label {
+  color: #cc0033;
+}
+
+ .error input[type="text"] {
+  background-color: #fce4e4;
+  border: 1px solid #cc0033;
+  outline: none;
+}
+.error input[type="password"] {
+  background-color: #fce4e4;
+  border: 1px solid #cc0033;
+  outline: none;
+}
+
+ .error-message {
+  color: #cc0033;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 5px 0 0;
+}
+
+.profileBinarypicnewimage{
+  width: 100%;
+  height  :100px;
+    border-radius: 50%;
+    border: 2px solid;
+     width: "100%";
+     height: "100%";
+     border-radius: 50%;
+     border : 0.4px solid ;
+     margin-left: 30px;
+                 
+}
+.avatar-user {
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background-position: center;
+  margin-left: 40px;
+}
+*/
